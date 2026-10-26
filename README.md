@@ -44,7 +44,11 @@ Client-server chat applications are software systems that enable real-time commu
 ## Client-Server Model:
 Client-server chat applications typically follow the client-server model, where one entity acts as the server, managing connections and facilitating communication, and one or more entities act as clients, initiating communication with the server.
 
-<img width="910" height="412" alt="image" src="https://github.com/user-attachments/assets/f5d1c4ff-a932-4733-b004-b86baa4d1fa0" />
+
+
+
+<img width="697" height="362" alt="image" src="https://github.com/user-attachments/assets/655cf5cf-fe9d-4088-828e-d0952ca1c64f" />
+
 
 
 ## Communication Protocols:
@@ -52,13 +56,16 @@ The choice of communication protocol is crucial. Many chat applications use TCP 
 User Authentication:
 User authentication mechanisms are essential to ensure secure and authorized access to the chat system. This can involve username-password authentication or more advanced methods like tokens.
 ## Components of Client-Server Chat Applications:
+
 ## Server-Side Components:
 
 •	Socket Handling: The server manages incoming client connections using sockets, creating a separate thread or process for each connected client.
 •	User Management: Maintaining information about connected users, their status, and handling login/logout functionality.
 •	Message Routing: Implementing logic to route messages from one client to another, ensuring proper delivery.
 
-<img width="852" height="503" alt="image" src="https://github.com/user-attachments/assets/e34b1dd4-746e-4e6c-8367-da0b2d649639" />
+
+
+<img width="733" height="418" alt="image" src="https://github.com/user-attachments/assets/7cf149bb-3ec9-4f38-acf0-cd2e59e394ba" />
 
 
 ## Considerations in Development:
@@ -82,7 +89,13 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Result:
 
-<img width="1051" height="296" alt="image" src="https://github.com/user-attachments/assets/4eedf07c-b39e-4057-a6c4-d726945d5beb" />
+# Server chat
+<img width="1007" height="202" alt="image" src="https://github.com/user-attachments/assets/aff89f45-3e58-42f9-a443-5cdcc875c666" />
+
+# Client chat
+<img width="997" height="192" alt="image" src="https://github.com/user-attachments/assets/601bb0fb-9819-4ab5-bd2b-27382af5cc4d" />
+
+
 
 Thus the study on Client Server Chat Applications has been performed
 
